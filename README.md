@@ -1,1 +1,2 @@
-# cichlid_qtl_analysis
+## cichlid_qtl_analysis
+Scripts for cichlid QTL analysis
